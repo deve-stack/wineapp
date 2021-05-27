@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.5" height="26" viewBox="0 0 37.5 26">
+  <defs>
+    <filter id="_Color_l_Thumb" x="11.5" y="0" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dx="0.5" dy="1.5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="toggle-active" transform="translate(0 1.5)">
+    <g id="Group_3545" data-name="Group 3545">
+      <rect id="_Color_l_Track" data-name="🎨 Color l Track" width="34" height="14" rx="7" transform="translate(0 3)" fill="rgba(150,31,99,0.4)"/>
+      <g transform="matrix(1, 0, 0, 1, 0, -1.5)" filter="url(#_Color_l_Thumb)">
+        <circle id="_Color_l_Thumb-2" data-name="🎨 Color l Thumb" cx="10" cy="10" r="10" transform="translate(14 1.5)" fill="#c45fa5"/>
+      </g>
+    </g>
+  </g>
+</svg>

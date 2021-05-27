@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.555" height="24.321" viewBox="0 0 36.555 24.321">
+  <g id="stream-like" transform="translate(-45.507 -415.469)">
+    <path id="Wines" d="M10.939,11.386a3.822,3.822,0,0,0,3.939-3.693A10.656,10.656,0,0,0,13.666,4H8.212A6.968,6.968,0,0,0,7,7.693,3.822,3.822,0,0,0,10.939,11.386Zm0,0v4.432m0,0H7.788m3.151,0h3.151" transform="translate(48.72 414.286) rotate(30)" fill="none" stroke="rgba(255,255,255,0.9)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Wines-2" data-name="Wines" d="M6,6.75a5.822,5.822,0,0,1,6,5.625C12,14.545,10.154,18,10.154,18H1.846A10.613,10.613,0,0,1,0,12.375,5.822,5.822,0,0,1,6,6.75Zm0,0V0M6,0H1.2M6,0h4.8" transform="translate(80.696 432.424) rotate(150)" fill="none" stroke="rgba(255,255,255,0.9)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

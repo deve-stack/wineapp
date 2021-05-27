@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="25" viewBox="0 0 33 25">
+  <g id="scan-error" transform="translate(-104 -154)">
+    <g id="camera" transform="translate(104 157)">
+      <path id="Path_152" data-name="Path 152" d="M23,19a2,2,0,0,1-2,2H3a2,2,0,0,1-2-2V8A2,2,0,0,1,3,6H7L9,3h6l2,3h4a2,2,0,0,1,2,2Z" fill="none" stroke="#531039" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="Ellipse_88" data-name="Ellipse 88" cx="4" cy="4" r="4" transform="translate(8 9)" fill="none" stroke="#531039" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path id="close-cancel" d="M1.505.521a1.778,1.778,0,0,0,0,2.494L6.527,8.093l-4.847,4.9a1.778,1.778,0,0,0,0,2.494,1.731,1.731,0,0,0,2.467,0l4.847-4.9,4.847,4.9a1.731,1.731,0,0,0,2.467,0,1.778,1.778,0,0,0,0-2.494l-4.847-4.9,5.022-5.078a1.778,1.778,0,0,0,0-2.494,1.731,1.731,0,0,0-2.467,0L8.994,5.6,3.972.521A1.731,1.731,0,0,0,1.505.521Z" transform="translate(120.006 153.996)" fill="#c45fa5" fill-rule="evenodd"/>
+  </g>
+</svg>

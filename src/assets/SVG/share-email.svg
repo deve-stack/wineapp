@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <filter id="Ellipse_118" x="0" y="0" width="50" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="share-email" transform="translate(-1991 -1430)">
+    <g transform="matrix(1, 0, 0, 1, 1991, 1430)" filter="url(#Ellipse_118)">
+      <circle id="Ellipse_118-2" data-name="Ellipse 118" cx="22" cy="22" r="22" transform="translate(3 2)" fill="#fff"/>
+    </g>
+    <g id="official-gmail-icon-2020-" transform="translate(2000 1377.276)">
+      <g id="Group_2967" data-name="Group 2967" transform="translate(0 64.724)">
+        <path id="Path_213" data-name="Path 213" d="M2.459,183.809H8.2V169.875L0,163.727V181.35a2.458,2.458,0,0,0,2.459,2.459Z" transform="translate(0 -159.81)" fill="#4285f4"/>
+        <path id="Path_214" data-name="Path 214" d="M395.636,183.809h5.738a2.458,2.458,0,0,0,2.459-2.459V163.727l-8.2,6.148Z" transform="translate(-371.833 -159.81)" fill="#34a853"/>
+        <path id="Path_215" data-name="Path 215" d="M395.636,67.19V77.846l8.2-6.148V68.419a3.689,3.689,0,0,0-5.9-2.951Z" transform="translate(-371.833 -64.724)" fill="#fbbc04"/>
+      </g>
+      <path id="Path_216" data-name="Path 216" d="M116.364,110.339V99.727l7.849,7.347,7.849-7.347v10.612l-7.849,7.346Z" transform="translate(-108.213 -32.537)" fill="#ea4335" fill-rule="evenodd"/>
+      <path id="Path_217" data-name="Path 217" d="M0,68.419V71.7l8.2,6.148V67.19L5.9,65.468A3.689,3.689,0,0,0,0,68.419Z" fill="#c5221f"/>
+    </g>
+  </g>
+</svg>

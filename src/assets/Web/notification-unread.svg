@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="22.996" viewBox="0 0 23 22.996">
+  <g id="notification-unread" transform="translate(1)">
+    <g id="Group_3544" data-name="Group 3544">
+      <path id="notification-bell" d="M22,17H2a3,3,0,0,0,3-3V9A7,7,0,0,1,19,9v5A3,3,0,0,0,22,17Zm-8.27,4a2,2,0,0,1-3.46,0" transform="translate(-2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Ellipse_102" data-name="Ellipse 102" transform="translate(13)" fill="#c45fa5" stroke="#fff" stroke-width="1">
+        <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+        <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

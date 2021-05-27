@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <g id="timeline-Current" transform="translate(3.5 0.5)">
+    <circle id="_1" data-name="1" cx="2" cy="2" r="2" transform="translate(0.5 3.5)" fill="#c45fa5"/>
+    <path id="_current_copy" data-name="_current copy" d="M6,12a6,6,0,1,1,6-6A6.007,6.007,0,0,1,6,12ZM6,1.333A4.667,4.667,0,1,0,10.667,6,4.672,4.672,0,0,0,6,1.333Z" transform="translate(-3.5 -0.5)" fill="#c45fa5"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="delete-photo" transform="translate(-5 -8)">
+    <circle id="Ellipse_121" data-name="Ellipse 121" cx="12" cy="12" r="12" transform="translate(5 8)" fill="rgba(255,255,255,0.6)"/>
+    <g id="Group_3062" data-name="Group 3062" transform="translate(-44.978 -189.027)">
+      <path id="Path_11" data-name="Path 11" d="M8.726,16.512A1.154,1.154,0,0,1,7.4,15.227L7.4,9.373,1.321,9.365Q0,9.363,0,8.146T1.318,6.931l6.076.008-.008-5.69Q7.385,0,8.7,0t1.321,1.252l.008,5.69,6.076.008q1.319,0,1.321,1.219T16.111,9.384l-6.076-.008.008,5.855A1.147,1.147,0,0,1,8.726,16.512Z" transform="translate(61.654 197.027) rotate(45)" fill="#531039"/>
+    </g>
+  </g>
+</svg>

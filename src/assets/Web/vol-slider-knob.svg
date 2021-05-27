@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <filter id="vol-slider-knob" x="0" y="0" width="22" height="22" filterUnits="userSpaceOnUse">
+      <feOffset dx="0.5" dy="1.5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#vol-slider-knob)">
+    <rect id="vol-slider-knob-2" data-name="vol-slider-knob" width="16" height="16" rx="8" transform="translate(2.5 1.5)" fill="#fff"/>
+  </g>
+</svg>

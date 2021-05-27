@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="16" viewBox="0 0 22 16">
+  <g id="eye" transform="translate(0 -3)">
+    <path id="Path_287" data-name="Path 287" d="M1,11S4.636,4,11,4s10,7,10,7-3.636,7-10,7S1,11,1,11Z" fill="none" stroke="#9d9d9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse id="Ellipse_124" data-name="Ellipse 124" cx="3" cy="2.5" rx="3" ry="2.5" transform="translate(7.917 8.655)" fill="none" stroke="#9d9d9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
