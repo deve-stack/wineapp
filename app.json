@@ -18,7 +18,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.WineZap"
+      "bundleIdentifier": "com.jj.winezap"
     },
     "android": {
       "adaptiveIcon": {
